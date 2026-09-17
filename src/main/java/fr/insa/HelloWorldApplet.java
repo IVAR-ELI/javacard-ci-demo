@@ -1,6 +1,6 @@
 package fr.insa;
 
-import javacard.framework.*;
+import javacard.framework.*
 
 public class HelloWorldApplet extends Applet {
 
